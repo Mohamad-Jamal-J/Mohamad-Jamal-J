@@ -1,4 +1,4 @@
-Hi 👋🏻 My name is Mohamad Jaradat
+Hi 👋🏻 I'm Mohamad Jaradat
 =======================================================================================================================================
 
 BSc in Mathematics & Computer Science - Birzeit University.
@@ -43,6 +43,8 @@ A fresh-graduate from Birzeit University with bachelor's degree in Mathematics &
   </a>
 </p>
 
+### My DataCamp Portfolio
+https://www.datacamp.com/portfolio/mojj
 
 ### Socials
 
