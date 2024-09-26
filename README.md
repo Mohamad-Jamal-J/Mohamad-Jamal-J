@@ -4,7 +4,7 @@ Hi 👋🏻 I'm Mohamad Jaradat
 BSc in Mathematics & Computer Science - Birzeit University.
 -----------------------------------------------------------
 
-A fresh-graduate from Birzeit University with bachelor's degree in Mathematics & Computer Science, graduated with distinction. Currently seeking an internship or entry-level position in backend development or data science to apply my skills, continue learning, and contribute to real-world projects.
+A fresh-graduate from Birzeit University with bachelor's degree in Mathematics & Computer Science, where I graduated with distinction. Currently seeking an internship or entry-level position in backend development or data science to apply my skills, continue learning, and contribute to real-world projects.
 
 ### Skills
 <p align="left">
