@@ -22,7 +22,7 @@ A fresh-graduate from Birzeit University with bachelor's degree in Mathematics &
 ### My DataCamp Portfolio
 Check my work on DataCamp platform [here](https://www.datacamp.com/portfolio/mojj) <br><br>
   <a href="https://www.datacamp.com/portfolio/mojj" target="_blank" rel="noreferrer">
-    <img src="https://github.com/Mohamad-Jamal-J/Mohamad-Jamal-J/blob/main/images/inverted.png" width="260" height="54" alt="Java" />
+    <img src="https://github.com/Mohamad-Jamal-J/Mohamad-Jamal-J/blob/main/images/inverted.png" width="200" height="42" alt="Java" />
   </a>
 
 ### Socials
