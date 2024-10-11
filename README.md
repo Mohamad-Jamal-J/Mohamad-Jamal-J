@@ -1,4 +1,4 @@
-Hi 👋🏻 I'm Mohamad Jaradat
+Hi 👋🏻 I'm [Mohammad Jaradat](https://mohamad-jamal-j.github.io/my-portfolio/)
 =======================================================================================================================================
 
 BSc in Mathematics & Computer Science - Birzeit University.
