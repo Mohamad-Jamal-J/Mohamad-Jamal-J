@@ -4,8 +4,6 @@ Hi 👋🏻 I'm Mohammad Jaradat
 BSc in Mathematics & Computer Science - Birzeit University.
 -----------------------------------------------------------
 
-A fresh-graduate from Birzeit University with bachelor's degree in Mathematics & Computer Science, where I graduated with distinction. Currently seeking an internship or entry-level position in backend development or data science to apply my skills, continue learning, and contribute to real-world projects.
-
 ### Skills
 <p align="left">
   <a href="https://www.oracle.com/java/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java"/></a>
